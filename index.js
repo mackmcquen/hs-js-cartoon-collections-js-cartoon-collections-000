@@ -27,7 +27,7 @@ function summonCaptainPlanet(veggies) {
 		
 	})
 	
- return(veggies.length);
+ //return(veggies.length);
 
 	}
 	
