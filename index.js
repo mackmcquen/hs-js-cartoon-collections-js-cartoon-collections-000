@@ -21,9 +21,9 @@ var veggies = ["carrot", "cucumber", "pepper"];
  
 function summonCaptainPlanet(veggies) {
   
-	return fruits.map(function(newFruits) {
+	return fruits.map(function(fruit) {
 	  
-		return newFruits.toUpperCase() + "!";
+		return fruit.toUpperCase() + "!";
 		
 	})
 	
