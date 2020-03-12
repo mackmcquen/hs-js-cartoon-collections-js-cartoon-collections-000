@@ -4,7 +4,7 @@ function dwarfRollCall(dwarves) {
   
 	var newStr = "";
 	
-	dwarves.forEach(function(dwarf))
+	dwarves.forEach(function(dwarf, index))
 	
 	//for(var i = 0; i < dwarves.length; i++) {
 	 
