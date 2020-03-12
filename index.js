@@ -1,10 +1,3 @@
-//1. Creates an array of 3 variables
-//2. Prints out variables in a numbered list from the array
-//3. Creates an empty variable to be accessed within the forLoop
-//4. forLoop
-//5. Assigns proper assets to output
-//6. outputs the final string
-
 var dwarves = ["Dopey", "Grumpy", "Bashful"];
 
 function dwarfRollCall(dwarves) {
@@ -20,6 +13,7 @@ function dwarfRollCall(dwarves) {
 	return newStr;
 }
 
+//
 //
 
 var veggies = ["carrot", "cucumber", "pepper"];
@@ -75,8 +69,3 @@ function findTheCheese(foods) {
 	
 	return "no cheese!";
 }
-
-
-
-
-
