@@ -19,7 +19,7 @@ function dwarfRollCall(dwarves) {
 //var veggies = ["carrot", "cucumber", "pepper"];
  //var fruits = ["apple", "banana", "orange"];
  
-function summonCaptainPlanet(veggies) {
+function summonCaptainPlanet(fruits) {
   
 	return fruits.map(function(fruit) {
 	  
