@@ -1,4 +1,4 @@
-var dwarves = ["Dopey", "Grumpy", "Bashful"];
+//var dwarves = ["Dopey", "Grumpy", "Bashful"];
 
 function dwarfRollCall(dwarves) {
   
