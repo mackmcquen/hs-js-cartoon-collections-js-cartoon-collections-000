@@ -16,8 +16,8 @@ function dwarfRollCall(dwarves) {
 //
 //
 
-var veggies = ["carrot", "cucumber", "pepper"];
- var fruits = ["apple", "banana", "orange"];
+//var veggies = ["carrot", "cucumber", "pepper"];
+ //var fruits = ["apple", "banana", "orange"];
  
 function summonCaptainPlanet(veggies) {
   
