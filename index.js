@@ -4,11 +4,13 @@ function dwarfRollCall(dwarves) {
   
 	var newStr = "";
 	
-	for(var i = 0; i < dwarves.length; i++) {
-	 
-			newStr += (i+1 + ". " + dwarves[i] + " ");
+	dwarves.forEach(function(dwarf))
 	
-	}
+	//for(var i = 0; i < dwarves.length; i++) {
+	 
+			//newStr += (i+1 + ". " + dwarves[i] + " ");
+	
+// 	}
 	
 	return newStr;
 }
